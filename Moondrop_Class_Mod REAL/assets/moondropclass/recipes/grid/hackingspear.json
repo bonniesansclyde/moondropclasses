@@ -1,0 +1,12 @@
+{
+	"ingredientPattern": "TM,MS",
+	"requiresTrait": "hacker",
+	"ingredients": {
+		"S": { "type": "item", "code": "spear-*", "allowedVariants": ["blackbronze", "tinbronze", "bismuthbronze"] },
+		"T": { "type": "item", "code": "gear-temporal" },
+		"M": { "type": "block", "code": "metal-parts" }
+	},
+	"width": 2,
+	"height": 2,
+	"output": { "type": "item", "code": "spear-hacking", "quantity": 1  }
+}

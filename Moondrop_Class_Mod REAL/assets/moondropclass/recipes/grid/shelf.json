@@ -1,0 +1,10 @@
+{
+	"ingredientPattern": "PP,__,PP",
+	"requiresTrait": "carpenter",
+	"ingredients": {
+		"P": { "type": "item", "code": "plank-*" }
+	},
+	"width": 2,
+	"height": 3,
+	"output": { "type": "block", "code": "shelf-normal-east"  }
+}

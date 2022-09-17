@@ -1,0 +1,94 @@
+[
+	{
+		"ingredientPattern": "SBS, _L_",
+		"requiresTrait": "firstaid",
+		"ingredients": {
+			"L": { "type": "block", "code": "linen-*" },
+			"S": { "type": "item", "code": "powderedsulfur" },
+			"B": { "type": "block", "code": "bowl-fired" }
+		},
+		"attributes": {
+			"liquidContainerProps": {
+				"requiresContent": { "type": "item", "code": "honeyportion" },
+				"requiresLitres": 0.25
+			}
+		},		
+		"width": 3,
+		"height": 2,
+		"output": { "type": "item", "code": "poultice-linen-honey-sulfur", "quantity": 4  }
+	},
+	
+	{
+		"ingredientPattern": "H L",
+		"requiresTrait": "firstaid",
+		"ingredients": {
+			"L": { "type": "block", "code": "linen-*" },
+			"H": { "type": "block", "code": "flower-horsetail-free", "quantity": 4 }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "poultice-linen-horsetail", "quantity": 4  }
+	},
+	
+	{
+		"ingredientPattern": "H C",
+		"requiresTrait": "firstaid",
+		"ingredients": {
+			"C": { "type": "item", "code": "cattailtops", "quantity": 2 },
+			"H": { "type": "block", "code": "flower-horsetail-free", "quantity": 4 }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "poultice-reed-horsetail", "quantity": 4  }
+	},
+	
+	{
+		"ingredientPattern": "SBS _C_",
+		"requiresTrait": "firstaid",
+		"ingredients": {
+			"C": { "type": "item", "code": "cattailtops", "quantity": 2 },
+			"S": { "type": "item", "code": "powderedsulfur" },
+			"B": { "type": "block", "code": "bowl-fired" }
+		},
+		"attributes": {
+			"liquidContainerProps": {
+				"requiresContent": { "type": "item", "code": "honeyportion" },
+				"requiresLitres": 0.25
+			}
+		},		
+		"width": 3,
+		"height": 2,
+		"output": { "type": "item", "code": "poultice-reed-honey-sulfur", "quantity": 4  }
+	},
+	
+	{
+		"ingredientPattern": "H P",
+		"requiresTrait": "firstaid",
+		"ingredients": {
+			"P": { "type": "item", "code": "papyrustops", "quantity": 2 },
+			"H": { "type": "block", "code": "flower-horsetail-free", "quantity": 4 }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "poultice-reed-horsetail", "quantity": 4  }
+	},
+	
+	{
+		"ingredientPattern": "SBS _P_",
+		"requiresTrait": "firstaid",
+		"ingredients": {
+			"P": { "type": "item", "code": "papyrustops", "quantity": 2 },
+			"S": { "type": "item", "code": "powderedsulfur" },
+			"B": { "type": "block", "code": "bowl-fired" }
+		},
+		"attributes": {
+			"liquidContainerProps": {
+				"requiresContent": { "type": "item", "code": "honeyportion" },
+				"requiresLitres": 0.25
+			}
+		},
+		"width": 3,
+		"height": 2,
+		"output": { "type": "item", "code": "poultice-reed-honey-sulfur", "quantity": 4  }
+	}	
+]

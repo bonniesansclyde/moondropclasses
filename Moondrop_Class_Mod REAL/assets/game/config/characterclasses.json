@@ -1,0 +1,285 @@
+[
+    {
+        "code": "alchemist",
+        "traits":
+        [
+            "squeamish",
+            "rockbreaker",
+            "novicesmith",
+            "healer",
+            "forager",
+            "brewer"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-shoulder-stained-leather-poncho"},
+            {"type": "item", "code": "clothes-upperbodyover-nomad-mantle"},
+            {"type": "item", "code": "clothes-lowerbody-commoner-trousers"},
+            {"type": "item", "code": "clothes-foot-metalcap-boots"},
+            {"type": "item", "code": "clothes-waist-heavy-belt"}
+        ]
+    },
+    {
+        "code": "blacksmith",
+        "traits":
+        [
+            "squeamish",
+            "armorer",
+            "closecombat",
+            "mastersmith",
+            "novicegardener",
+            "pebblecollector"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-upperbodyover-cobalt-mantle"},
+            {"type": "item", "code": "clothes-lowerbody-commoner-trousers"},
+            {"type": "item", "code": "clothes-foot-tigh-high-boots"},
+            {"type": "item", "code": "clothes-neck-bronze-gem-necklace"},
+            {"type": "item", "code": "clothes-hand-heavy-leather-gloves"},
+            {"type": "item", "code": "clothes-waist-heavy-tool-belt"}
+        ]
+    },
+    {
+        "code": "chef",
+        "traits":
+        [
+            "prochef",
+            "brewer",
+            "cheesemonger",
+            "novicesmith",
+            "novicegardener",
+            "rockbreaker"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-shoulder-clockmaker-apron"},
+            {"type": "item", "code": "clothes-upperbody-tattered-linen-shirt"},
+            {"type": "item", "code": "clothes-lowerbody-aristocrat-leggings"},
+            {"type": "item", "code": "clothes-foot-aristocrat-shoes"}
+            
+        ]
+    },
+    {
+        "code": "farmer",
+        "traits":
+        [
+            "apiarist",
+            "composter",
+            "rancher",
+            "crossstitcher",
+            "novicesmith",
+            "saucier",
+            "rockbreaker"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-upperbody-clockmaker-shirt"},
+            {"type": "item", "code": "clothes-lowerbody-workmans-gown"},
+            {"type": "item", "code": "clothes-foot-soldier-boots"},
+            {"type": "item", "code": "clothes-neck-cypress-seed-amulet"},
+            {"type": "item", "code": "clothes-hand-commoner-gloves"},
+            {"type": "item", "code": "clothes-waist-sturdy-belt"}
+        ]
+
+    },
+    {
+        "code": "hunter",
+        "traits":
+        [
+            "fleetfooted",
+            "carver",
+            "tanner",
+            "sharpshot",
+            "clumsy",
+            "novicesmith",
+            "novicegardener",
+            "rockbreaker"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-shoulder-jord-robe"},
+            {"type": "item", "code": "clothes-upperbody-woolen-shirt"},
+            {"type": "item", "code": "clothes-lowerbody-shepherd-pants"},
+            {"type": "item", "code": "clothes-foot-squire-boots"},
+            {"type": "item", "code": "clothes-emblem-malefactor-bloody-pendant"},
+            {"type": "item", "code": "clothes-mask-tailor-mask"},
+            {"type": "item", "code": "clothes-waist-linen-rope"}
+        ]
+    },
+    {
+        "code": "looter",
+        "traits":
+        [
+            "squeamish",
+            "sharpshot",
+            "hacker",
+            "clumsy",
+            "rockbreaker",
+            "hoarder",
+            "novicesmith",
+            "lucky",
+            "forager"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-upperbody-hunter-shirt"},
+            {"type": "item", "code": "clothes-upperbodyover-huntsmans-tunic"},
+            {"type": "item", "code": "clothes-lowerbody-fine-trousers"},
+            {"type": "item", "code": "clothes-foot-malefactor-boots"},
+            {"type": "item", "code": "clothes-face-leather-reinforced-mask"},
+            {"type": "item", "code": "clothes-hand-malefactor-gloves"},
+            {"type": "item", "code": "clothes-waist-heavy-tool-belt"}
+        ]
+    },
+    {
+        "code": "lumberjack",
+        "traits":
+        [
+            "squeamish",
+            "carpenter",
+            "logger",
+            "rockbreaker",
+            "novicesmith",
+            "novicegardener"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-upperbody-aristocrat-shirt"},
+            {"type": "item", "code": "clothes-upperbodyover-malefactor-tunic"},
+            {"type": "item", "code": "clothes-lowerbody-woolen-leggings"},
+            {"type": "item", "code": "clothes-foot-high-leather-boots"},
+            {"type": "item", "code": "clothes-neck-acorn-amulet"},
+            {"type": "item", "code": "clothes-arm-leather-bracers"},
+            {"type": "item", "code": "clothes-waist-sturdy-belt"}
+        ]
+    },
+    {
+        "code": "mercenary",
+        "traits":
+        [
+            "squeamish",
+            "nearsighted",
+            "hacker",
+            "closecombat",
+            "rockbreaker",
+            "hoarder",
+            "novicesmith",
+            "novicegardener"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-upperbody-blackguard-shirt"},
+            {"type": "item", "code": "clothes-lowerbody-warm-woolen-pants"},
+            {"type": "item", "code": "clothes-foot-peasent-slippers"},
+            {"type": "item", "code": "clothes-face-malefactor-mask"},
+            {"type": "item", "code": "clothes-hand-forlorn-bracer"},
+            {"type": "item", "code": "clothes-waist-squire-belt"}
+        ]
+    },
+    {
+        "code": "miner",
+        "traits":
+        [
+            "squeamish",
+            "closecombat",
+            "prospector",
+            "pebblecollector",
+            "novicesmith",
+            "heavyhanded",
+            "novicegardener"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-upperbody-tattered-crimson-tunic"},
+            {"type": "item", "code": "clothes-upperbodyover-clockmaker-tunic"},
+            {"type": "item", "code": "clothes-lowerbody-malefactor-trousers"},
+            {"type": "item", "code": "clothes-foot-metalcap-boots"},
+            {"type": "item", "code": "clothes-arm-bronze-armlet"},
+            {"type": "item", "code": "clothes-hand-clockmaker-wristguard"},
+            {"type": "item", "code": "clothes-waist-sturdy-leather-belt"}
+        ]
+    },
+    {
+        "code": "potter",
+        "traits":
+        [
+            "squeamish",
+            "sculpter",
+            "digger",
+            "rockbreaker",
+            "novicesmith",
+            "novicegardener"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-shoulder-woolen-scarf"},
+            {"type": "item", "code": "clothes-upperbody-great-steppe-shirt"},
+            {"type": "item", "code": "clothes-lowerbody-tailor-trousers"},
+            {"type": "item", "code": "clothes-foot-merchant-shoes"},
+            {"type": "item", "code": "clothes-hand-hunter-gloves"},
+            {"type": "item", "code": "clothes-waist-merchant-belt"}
+        ]
+    },
+    {
+        "code": "stonemason",
+        "traits":
+        [
+            "squeamish",
+            "bricklayer",
+            "quarryer",
+            "novicesmith",
+            "novicegardener"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-shoulder-blacksmith-apron"},
+            {"type": "item", "code": "clothes-upperbody-malefactor-shirt"},
+            {"type": "item", "code": "clothes-lowerbody-jailor-pants"},
+            {"type": "item", "code": "clothes-foot-worn-leather-boots"},
+            {"type": "item", "code": "clothes-hand-heavy-leather-gloves"},
+            {"type": "item", "code": "clothes-waist-sturdy-leather-belt"}
+        ]
+    },
+    {
+        "code": "tailor",
+        "traits":
+        [
+            "squeamish",
+            "clothier",
+            "rockbreaker",
+            "novicesmith",
+            "novicegardener"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-head-squire-hood"},
+            {"type": "item", "code": "clothes-shoulder-embroidered-tartarean-scarf"},
+            {"type": "item", "code": "clothes-upperbody-lackey-shirt"},
+            {"type": "item", "code": "clothes-lowerbody-shepherd-pants"},
+            {"type": "item", "code": "clothes-foot-noble-shoes"},
+            {"type": "item", "code": "clothes-arm-merchant-bracelet"}
+        ]
+    },
+    {
+        "code": "tinkerer",
+        "traits":
+        [
+            "squeamish",
+            "hacker",
+            "mechanist",
+            "rockbreaker",
+            "novicegardener"
+        ],
+        "gear":
+        [
+            {"type": "item", "code": "clothes-shoulder-squire-tunic"},
+            {"type": "item", "code": "clothes-upperbody-lackey-shirt"},
+            {"type": "item", "code": "clothes-lowerbody-forlorn-pants"},
+            {"type": "item", "code": "clothes-foot-noble-shoes"},
+            {"type": "item", "code": "clothes-arm-squire-bracers"},
+            {"type": "item", "code": "clothes-hand-heavy-leather-gloves"},
+            {"type": "item", "code": "clothes-waist-clockmaker-belt"}
+        ]
+    }
+]

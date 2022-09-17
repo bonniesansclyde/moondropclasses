@@ -1,0 +1,44 @@
+[
+    {
+    "file": "wildfarming:recipes/grid/cactiseeds" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "composter"
+},
+{
+    "file": "wildfarming:recipes/grid/cropseeds" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "composter"
+},
+{
+    "file": "wildfarming:recipes/grid/flowerseeds" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "composter"
+},
+{
+    "file": "wildfarming:recipes/grid/fruitseeds" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "composter"
+},
+{
+    "file": "wildfarming:recipes/grid/mushroomsubstrate" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "composter"
+},
+{
+    "file": "wildfarming:recipes/grid/reedroots" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "composter"
+},
+{
+    "file": "wildfarming:recipes/grid/vinetrimming" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "composter"
+}
+]

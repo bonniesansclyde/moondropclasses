@@ -1,0 +1,20 @@
+[
+    {
+    "file": "backpackpackplus:recipes/grid/blocks/mixingbowl" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "prochef"
+},
+{
+    "file": "backpackpackplus:recipes/grid/blocks/meathook" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "prochef"
+},
+{
+    "file": "backpackpackplus:recipes/grid/superfuel/firelog" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "prochef"
+}
+]

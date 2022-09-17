@@ -1,0 +1,104 @@
+[
+    {
+        "file": "alchemy:recipes/grid/ingredient/*archerbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*basicbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*glowbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*healingeffectbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*hungerenhancebase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*hungersupressbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*hunterbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*looterbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*meleebase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*miningbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*poisonbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*predatorbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*recallbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*regenbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*scentmaskbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*speedbase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    },
+    {
+        "file": "alchemy:recipes/grid/ingredient/*vitalitybase" ,
+        "op": "add",
+        "path": "/requiresTrait",
+        "value": "alchemist"
+    }
+]

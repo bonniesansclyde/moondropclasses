@@ -1,0 +1,26 @@
+[
+{
+    "file": "backpackpackplus:recipes/grid/backpack" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "tanner"
+},
+{
+    "file": "backpackpackplus:recipes/grid/hunterbackpack" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "tanner"
+},
+{
+    "file": "backpackpackplus:recipes/grid/metalbackpacks" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "tanner"
+},
+{
+    "file": "backpackpackplus:recipes/grid/miningbag" ,
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "tanner"
+}
+]

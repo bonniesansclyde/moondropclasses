@@ -1,0 +1,12 @@
+{
+	"ingredientPattern": "LSL",
+	"requiresTrait": "bricklayer",
+	"ingredients": {
+		"L": { "type": "item", "code": "stone-*", "name": "rock", "quantity": 1 },
+		"S": { "type": "block", "code": "soil-*" },
+		"P": { "type": "item", "code": "stone-*", "name": "rock", "quantity": 1 }
+	},
+	"width": 3,
+	"height": 1,
+	"output": { "type": "block", "code": "stonepathslab-free", "quantity": 1 }
+}

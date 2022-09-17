@@ -1,0 +1,7 @@
+[
+    {"file": "usefulstuff:recipes/grid/firebox",
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "sculpter"
+    }
+]

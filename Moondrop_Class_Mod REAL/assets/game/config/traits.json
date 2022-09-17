@@ -1,0 +1,245 @@
+[
+    {
+        "code": "apiarist",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "closecombat",
+        "type": "positive",
+        "attributes": {
+            "rangedWeaponsDamage": 0.2,
+			"rangedWeaponsAcc": 0.3,
+            "meleeWeaponsDamage": -0.1,
+            "armorDurabilityLoss": -0.15,
+			"armorWalkSpeedAffectedness": -0.25
+        }
+    },
+    {
+        "code": "digger",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "fleetfooted",
+        "type": "positive",
+        "attributes": {
+            "walkspeed": 2
+        }
+    },
+    {
+        "code": "forager",
+        "type": "positive",
+        "attributes": {
+            "forageDropRate": 0.1,
+			"wildCropDropRate": 0.2
+        }
+    },
+    {
+        "code": "hacker",
+        "type": "positive",
+        "attributes": {
+            "temporalGearTLRepairCost": -1
+        }
+    },
+    {
+        "code": "hoarder",
+        "type": "positive",
+        "attributes": {
+            "rustyGearDropRate": 0.1
+        }
+    },
+    {
+        "code": "logger",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "lucky",
+        "type": "positive",
+        "attributes": {
+            "vesselContentsDropRate": 0.15,
+			"wholeVesselLootChance": 0.12
+        }
+    },
+    {
+        "code": "mechanist",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "prospector",
+        "type": "positive",
+        "attributes": {
+            "miningSpeedMul": 0.1,
+            "oreDropRate": 2
+        }
+    },
+    {
+        "code": "quarryer",
+        "type": "positive",
+        "attributes": {
+            "stoneDropRate": 0.2
+        }
+    },
+    {
+        "code": "rancher",
+        "type": "positive",
+        "attributes": {
+            "animalHarvestingTime": -0.25
+        }
+    },
+    {
+        "code": "sculpter",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "sharpshot",
+        "type": "positive",
+        "attributes": {
+            "rangedWeaponsDamage": 0.5, 
+			"bowDrawingStrength": 0.5, 
+			"rangedWeaponsSpeed": 0.15,
+			"rangedWeaponsAcc": 1
+        }
+    },
+    {
+        "code": "clumsy",
+        "type": "negative",
+        "attributes": {
+            "meleeWeaponsDamage": -2
+        }
+    },
+    {
+        "code": "crossstitcher",
+        "type": "negative",
+        "attributes": {}
+    },
+    {
+        "code": "heavyhanded",
+        "type": "negative",
+        "attributes": {
+            "vesselContentsDropRate": -0.1
+        }
+    },
+    {
+        "code": "nearsighted",
+        "type": "negative",
+        "attributes": {
+            "rangedWeaponsDamage": -0.5 
+        }
+    },
+    {
+        "code": "novicegardener",
+        "type": "negative",
+        "attributes": {
+            "wildCropDropRate": -0.2
+        }
+    },
+    {
+        "code": "pebblecollector",
+        "type": "negative",
+        "attributes": {
+            "stoneDropRate": -0.15
+        }
+    },
+    {
+        "code": "rockbreaker",
+        "type": "negative",
+        "attributes": {
+            "oreDropRate": -0.15
+        }
+    },
+    {
+        "code": "squeamish",
+        "type": "negative",
+        "attributes": {
+            "animalLootDropRate": -0.1,
+			"animalHarvestingTime": 0.25
+        }
+    },
+    {
+        "code": "armorer",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "brewer",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "bricklayer",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "carpenter",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "carver",
+        "type": "positive",
+        "attributes": {
+            "animalLootDropRate": 0.1,
+			"animalHarvestingTime": -0.25
+        }
+    },
+    {
+        "code": "composter",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "healer",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "clothier",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "tanner",
+        "type": "positive",
+        "attributes": {}
+    },
+    {
+        "code": "cheesemonger",
+        "type": "positive",
+        "attributes": {
+            "meleeWeaponsDamage": -0.22
+        }
+    },
+    {
+        "code": "novicesmith",
+        "type": "negative",
+        "attributes": {
+            "meleeWeaponsDamage": -0.28
+        }
+    },
+    {
+        "code": "mastersmith",
+        "type": "positive",
+        "attributes": {
+            "meleeWeaponsDamage": -0.21
+        }
+    },
+    {
+        "code": "prochef",
+        "type": "positive",
+        "attributes": {
+            "meleeWeaponsDamage": -0.29
+        }
+    },
+    {
+        "code": "saucier",
+        "type": "positive",
+        "attributes": {
+            "meleeWeaponsDamage": 0
+        }
+    }
+]

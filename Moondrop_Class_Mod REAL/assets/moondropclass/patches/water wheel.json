@@ -1,0 +1,7 @@
+[
+    {"file": "medievalexpansion:recipes/grid/waterwheel",
+    "op": "add",
+    "path": "/requiresTrait",
+    "value": "mechanist"
+    }
+]

@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "moondropclasses",
+  "name": "Moondrop Classes",
+  "description" : "Adds new classes, and encourages trade between players through restrictive attributes.",
+  "authors": ["BonnieSansClyde"],
+  "version": "1.0",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "dependency": {}
+}
